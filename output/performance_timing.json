@@ -1,0 +1,61 @@
+{
+  "analyses": [
+    {
+      "analysis": "Data Loading & Cleaning",
+      "mapper_phase_seconds": 18.8,
+      "reducer_phase_seconds": 18.657,
+      "total_seconds": 37.457
+    },
+    {
+      "analysis": "Language Popularity by Year",
+      "mapper_phase_seconds": 0.223,
+      "reducer_phase_seconds": 5.15,
+      "total_seconds": 5.373
+    },
+    {
+      "analysis": "Top Repositories by Stars",
+      "mapper_phase_seconds": 0.222,
+      "reducer_phase_seconds": 3.332,
+      "total_seconds": 3.554
+    },
+    {
+      "analysis": "Trending Topics by Year",
+      "mapper_phase_seconds": 0.157,
+      "reducer_phase_seconds": 4.422,
+      "total_seconds": 4.58
+    },
+    {
+      "analysis": "YoY Language Growth Rate",
+      "mapper_phase_seconds": 0.339,
+      "reducer_phase_seconds": 1.686,
+      "total_seconds": 2.025
+    },
+    {
+      "analysis": "Star Distribution Across Languages",
+      "mapper_phase_seconds": 0.211,
+      "reducer_phase_seconds": 7.89,
+      "total_seconds": 8.102
+    },
+    {
+      "analysis": "Repository Activity Index",
+      "mapper_phase_seconds": 0.225,
+      "reducer_phase_seconds": 8.412,
+      "total_seconds": 8.637
+    },
+    {
+      "analysis": "Language Ecosystem Health Score",
+      "mapper_phase_seconds": 0.198,
+      "reducer_phase_seconds": 3.472,
+      "total_seconds": 3.67
+    },
+    {
+      "analysis": "User Activity Profiles",
+      "mapper_phase_seconds": 0.252,
+      "reducer_phase_seconds": 17.803,
+      "total_seconds": 18.056
+    }
+  ],
+  "total_pipeline_seconds": 91.452,
+  "total_records_processed": 2003118,
+  "records_removed_in_cleaning": 0
+}

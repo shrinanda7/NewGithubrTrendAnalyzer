@@ -1,0 +1,182 @@
+[
+  {
+    "language": "JavaScript",
+    "repo_count": 391599,
+    "avg_stars": 1711.15,
+    "median_stars": 9,
+    "max_stars": 199980,
+    "total_stars": 670082818,
+    "stddev_stars": 10541.6
+  },
+  {
+    "language": "Python",
+    "repo_count": 359883,
+    "avg_stars": 1724.66,
+    "median_stars": 9,
+    "max_stars": 199956,
+    "total_stars": 620677525,
+    "stddev_stars": 10485.98
+  },
+  {
+    "language": "Java",
+    "repo_count": 224304,
+    "avg_stars": 1748.15,
+    "median_stars": 9,
+    "max_stars": 199997,
+    "total_stars": 392118003,
+    "stddev_stars": 10690.99
+  },
+  {
+    "language": "TypeScript",
+    "repo_count": 187410,
+    "avg_stars": 1756.08,
+    "median_stars": 9,
+    "max_stars": 199991,
+    "total_stars": 329106878,
+    "stddev_stars": 10829.34
+  },
+  {
+    "language": "C#",
+    "repo_count": 110006,
+    "avg_stars": 1749.28,
+    "median_stars": 9,
+    "max_stars": 199660,
+    "total_stars": 192431715,
+    "stddev_stars": 10656.89
+  },
+  {
+    "language": "C++",
+    "repo_count": 103667,
+    "avg_stars": 1739.61,
+    "median_stars": 9,
+    "max_stars": 199958,
+    "total_stars": 180340440,
+    "stddev_stars": 10621.2
+  },
+  {
+    "language": "PHP",
+    "repo_count": 98777,
+    "avg_stars": 1695.78,
+    "median_stars": 9,
+    "max_stars": 199250,
+    "total_stars": 167504453,
+    "stddev_stars": 10456.94
+  },
+  {
+    "language": "Go",
+    "repo_count": 90902,
+    "avg_stars": 1702.69,
+    "median_stars": 9,
+    "max_stars": 199854,
+    "total_stars": 154777484,
+    "stddev_stars": 10452.33
+  },
+  {
+    "language": "C",
+    "repo_count": 67669,
+    "avg_stars": 1747.26,
+    "median_stars": 9,
+    "max_stars": 198526,
+    "total_stars": 118235484,
+    "stddev_stars": 10739.87
+  },
+  {
+    "language": "Shell",
+    "repo_count": 63346,
+    "avg_stars": 1709.68,
+    "median_stars": 9,
+    "max_stars": 199764,
+    "total_stars": 108301534,
+    "stddev_stars": 10345.92
+  },
+  {
+    "language": "Ruby",
+    "repo_count": 58043,
+    "avg_stars": 1836.21,
+    "median_stars": 9,
+    "max_stars": 199975,
+    "total_stars": 106579296,
+    "stddev_stars": 11345.63
+  },
+  {
+    "language": "Rust",
+    "repo_count": 63545,
+    "avg_stars": 1648.37,
+    "median_stars": 9,
+    "max_stars": 197036,
+    "total_stars": 104745706,
+    "stddev_stars": 10289.72
+  },
+  {
+    "language": "Kotlin",
+    "repo_count": 51677,
+    "avg_stars": 1753.93,
+    "median_stars": 9,
+    "max_stars": 199274,
+    "total_stars": 90637936,
+    "stddev_stars": 10771.04
+  },
+  {
+    "language": "Swift",
+    "repo_count": 33587,
+    "avg_stars": 1710.96,
+    "median_stars": 9,
+    "max_stars": 199747,
+    "total_stars": 57466019,
+    "stddev_stars": 10310.19
+  },
+  {
+    "language": "Dart",
+    "repo_count": 34405,
+    "avg_stars": 1656.22,
+    "median_stars": 9,
+    "max_stars": 199120,
+    "total_stars": 56982250,
+    "stddev_stars": 10256.38
+  },
+  {
+    "language": "R",
+    "repo_count": 23177,
+    "avg_stars": 1713.24,
+    "median_stars": 9,
+    "max_stars": 196818,
+    "total_stars": 39707652,
+    "stddev_stars": 10548.67
+  },
+  {
+    "language": "Lua",
+    "repo_count": 11521,
+    "avg_stars": 1824.41,
+    "median_stars": 9,
+    "max_stars": 198659,
+    "total_stars": 21018993,
+    "stddev_stars": 10713.73
+  },
+  {
+    "language": "Scala",
+    "repo_count": 10749,
+    "avg_stars": 1898.46,
+    "median_stars": 9,
+    "max_stars": 199192,
+    "total_stars": 20406502,
+    "stddev_stars": 11319.98
+  },
+  {
+    "language": "Objective-C",
+    "repo_count": 11045,
+    "avg_stars": 1607.1,
+    "median_stars": 9,
+    "max_stars": 197387,
+    "total_stars": 17750424,
+    "stddev_stars": 9851.83
+  },
+  {
+    "language": "Haskell",
+    "repo_count": 5706,
+    "avg_stars": 1815.07,
+    "median_stars": 9,
+    "max_stars": 193037,
+    "total_stars": 10356813,
+    "stddev_stars": 10818.43
+  }
+]
